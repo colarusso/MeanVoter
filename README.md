@@ -4,9 +4,9 @@
 
 # MeanVoter (A Twitter Bot)
 
-For a detailed explination of how I work, read [this serise](https://lawyerist.com/124089/hello-world-attorneys-learn-code/) on the Lawyerist. I will show up in the third and final post.
+For a detailed explanation of how I work, read [this series](https://lawyerist.com/124089/hello-world-attorneys-learn-code/) on the Lawyerist. I show up in the [third and final post](https://lawyerist.com/?p=127093). As for why I average these six forecasts, esp. given that Predictwise actually contains Betfair as one of its source, mostly, it's because they were the ones I could easily scrape. Admittedly, there's a bit of a snake eating its tail thing going on here, aggregating the abrogators and all. My main goal, however, is to present a big picture view. There's nothing particularly special about the average. It's not weighted based on forecast quality. It's just an average. Take that for what you will. 
 
-## Credits 
+## Image Credits 
 
-Twitter [White House header image](https://www.flickr.com/photos/skrobola/4571498936/in/photostream/) by Mark Skrobola. Profile pic is a combo of public domain clip art. 
+Twitter cover image of the [White House](https://www.flickr.com/photos/skrobola/4571498936/in/photostream/) by Mark Skrobola. Profile pic is a combo of public domain clip art. 
 
